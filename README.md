@@ -19,4 +19,4 @@ I'm a final-year **Software Engineering** student passionate about **AI and its 
 - 👁 Exploring **Multimodal AI** and **Computer Vision**
 
 ## Let's Connect! 🌍
-[LinkedIn](https://www.linkedin.com/in/zanebrackley/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png)](https://www.linkedin.com/in/zanebrackley/)
