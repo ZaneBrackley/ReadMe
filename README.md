@@ -1,7 +1,7 @@
 # Hi, I'm Zane Brackley! 👋
 
 ## About Me
-I'm a final-year **Software Engineering** student passionate about **AI and its applications**. My interests lie in **AI** and **full-stack development**. Currently, I'm focusing on securing **internships and graduate positions** to kickstart my career.
+I'm a final-year **Software Engineering** student passionate about **AI and its applications**. I'm interested in doing a Master's of AI and becoming a machine learning engineer. Currently looking for graduate positions for 2026.
 
 ## What I'm Working On 🚀
 - 🎓 **Research Thesis:** Investigating how **Multimodal AI and Computer Vision** can be applied to **diagnose rare diseases**
